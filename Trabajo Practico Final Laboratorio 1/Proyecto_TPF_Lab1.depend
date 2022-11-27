@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1669507586 source:c:\users\pablo david cavallo\desktop\proyectos\proyecto_tpf_lab1\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"estetica.h"
+	"clientes.h"
+
+1655752840 c:\users\pablo david cavallo\desktop\proyectos\proyecto_tpf_lab1\estetica.h
+
+1655676700 c:\users\pablo david cavallo\desktop\proyectos\proyecto_tpf_lab1\clientes.h
+
+1669507586 source:c:\users\pablo david cavallo\desktop\proyectos\proyecto_tpf_lab1\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"estetica.h"
+	"clientes.h"
+	"consumos.h"
+
+1655746276 c:\users\pablo david cavallo\desktop\proyectos\proyecto_tpf_lab1\consumos.h
+
+1650386000 source:c:\users\pablo david cavallo\desktop\proyectos\proyecto_tpf_lab1\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1669507636 source:c:\users\pablo david cavallo\desktop\proyectos\proyecto_tpf_lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"estetica.h"
+	"clientes.h"
+	"menu.h"
+	"consumos.h"
+
+1654879678 c:\users\pablo david cavallo\desktop\proyectos\proyecto_tpf_lab1\menu.h
+
+1669507636 source:c:\users\pablo david cavallo\desktop\proyectos\proyecto_tpf_lab1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"estetica.h"
+	"clientes.h"
+	"consumos.h"
+	"menu.h"
+
+1669507586 source:c:\users\pablo david cavallo\desktop\proyectos\proyecto_tpf_lab1\consumos (2).c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"estetica.h"
+
+1650386004 c:\users\pablo david cavallo\desktop\proyectos\proyecto_tpf_lab1\gotoxy.h
+
+1669506445 source:c:\users\pablo david cavallo\desktop\proyectos\proyecto_tpf_lab1\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+

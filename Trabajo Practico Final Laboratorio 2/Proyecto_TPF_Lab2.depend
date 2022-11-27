@@ -1,0 +1,199 @@
+# depslib dependency file v1.0
+1669299958 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\administrador.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"administrador.h"
+	"gotoxy.h"
+
+1669297282 c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\puntaje.h
+
+1669316550 c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\usuario.h
+
+1669302027 c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\archivo.h
+
+1669316550 c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\administrador.h
+
+1669316550 c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\menu.h
+
+1669293461 c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\estetica.h
+
+1650414804 c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\gotoxy.h
+
+1669302027 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\archivo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"puntaje.h"
+	"usuario.h"
+	"archivo.h"
+	"menu.h"
+
+1669300168 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\estetica.c
+	"estetica.h"
+	<windows.h>
+	"gotoxy.h"
+
+1669203306 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"puntaje.h"
+	"usuario.h"
+	"archivo.h"
+	"administrador.h"
+	"menu.h"
+	"estetica.h"
+	<windows.h>
+	"gotoxy.h"
+
+1669258423 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	"menu.h"
+
+1669300315 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"puntaje.h"
+	"usuario.h"
+	"archivo.h"
+	"administrador.h"
+	"menu.h"
+	"estetica.h"
+	<windows.h>
+	"gotoxy.h"
+
+1669300704 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\puntaje.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"puntaje.h"
+
+1669304193 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"administrador.h"
+	"puntaje.h"
+	"usuario.h"
+	"archivo.h"
+	<windows.h>
+	"gotoxy.h"
+
+1669258357 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\para_probar_codigo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"puntaje.h"
+	"usuario.h"
+	"archivo.h"
+	"administrador.h"
+	"menu.h"
+	"estetica.h"
+
+1669302183 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\nombres.c
+
+1669316550 source:e:\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\administrador.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"administrador.h"
+	"gotoxy.h"
+
+1669316550 e:\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\administrador.h
+
+1650414804 e:\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\gotoxy.h
+
+1669302027 source:e:\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\archivo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"puntaje.h"
+	"usuario.h"
+	"archivo.h"
+	"menu.h"
+
+1669297282 e:\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\puntaje.h
+
+1669316550 e:\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\usuario.h
+
+1669302027 e:\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\archivo.h
+
+1669316550 e:\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\menu.h
+
+1669507037 source:e:\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\estetica.c
+	"estetica.h"
+	<windows.h>
+	"gotoxy.h"
+
+1669293461 e:\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\estetica.h
+
+1669203306 source:e:\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"puntaje.h"
+	"usuario.h"
+	"archivo.h"
+	"administrador.h"
+	"menu.h"
+	"estetica.h"
+	<windows.h>
+	"gotoxy.h"
+
+1669258423 source:e:\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	"menu.h"
+
+1669316550 source:e:\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"puntaje.h"
+	"usuario.h"
+	"archivo.h"
+	"administrador.h"
+	"menu.h"
+	"estetica.h"
+	<windows.h>
+	"gotoxy.h"
+
+1669300704 source:e:\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\puntaje.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"puntaje.h"
+
+1669316550 source:e:\utn - técnico universitario en programación\proyectos git\proyecto_tpf_lab2\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"administrador.h"
+	"puntaje.h"
+	"usuario.h"
+	"archivo.h"
+	<windows.h>
+	"gotoxy.h"
+

@@ -1,0 +1,289 @@
+# depslib dependency file v1.0
+1655781411 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+
+1655781641 c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\estetica.h
+
+1655705500 c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\clientes.h
+
+1655779142 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+
+1655775076 c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\consumos.h
+
+1655780215 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650414804 c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\gotoxy.h
+
+1650414800 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655779860 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+
+1654908478 c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\menu.h
+
+1655774486 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+
+1655781641 source:c:\users\max\desktop\tp final\trabajo practico final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+
+1655781641 c:\users\max\desktop\tp final\trabajo practico final\estetica.h
+
+1655705500 c:\users\max\desktop\tp final\trabajo practico final\clientes.h
+
+1655783779 source:c:\users\max\desktop\tp final\trabajo practico final\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+
+1655775076 c:\users\max\desktop\tp final\trabajo practico final\consumos.h
+
+1655781641 source:c:\users\max\desktop\tp final\trabajo practico final\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650414804 c:\users\max\desktop\tp final\trabajo practico final\gotoxy.h
+
+1650414800 source:c:\users\max\desktop\tp final\trabajo practico final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655784863 source:c:\users\max\desktop\tp final\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+
+1654908478 c:\users\max\desktop\tp final\trabajo practico final\menu.h
+
+1655784232 source:c:\users\max\desktop\tp final\trabajo practico final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+
+1655767240 source:c:\users\max\desktop\tp final laboratorio y programación 1\trabajo practico final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+
+1655767240 c:\users\max\desktop\tp final laboratorio y programación 1\trabajo practico final\estetica.h
+
+1655691100 c:\users\max\desktop\tp final laboratorio y programación 1\trabajo practico final\clientes.h
+
+1655769378 source:c:\users\max\desktop\tp final laboratorio y programación 1\trabajo practico final\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+
+1655760676 c:\users\max\desktop\tp final laboratorio y programación 1\trabajo practico final\consumos.h
+
+1655767240 source:c:\users\max\desktop\tp final laboratorio y programación 1\trabajo practico final\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650400404 c:\users\max\desktop\tp final laboratorio y programación 1\trabajo practico final\gotoxy.h
+
+1650400400 source:c:\users\max\desktop\tp final laboratorio y programación 1\trabajo practico final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655752840 source:c:\users\pablo david cavallo\desktop\trabajo practico final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+
+1655752840 c:\users\pablo david cavallo\desktop\trabajo practico final\estetica.h
+
+1655676700 c:\users\pablo david cavallo\desktop\trabajo practico final\clientes.h
+
+1655754978 source:c:\users\pablo david cavallo\desktop\trabajo practico final\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+
+1655746276 c:\users\pablo david cavallo\desktop\trabajo practico final\consumos.h
+
+1669506445 source:c:\users\pablo david cavallo\desktop\trabajo practico final\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650386004 c:\users\pablo david cavallo\desktop\trabajo practico final\gotoxy.h
+
+1650386000 source:c:\users\pablo david cavallo\desktop\trabajo practico final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1669506445 source:c:\users\pablo david cavallo\desktop\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+
+1654879678 c:\users\pablo david cavallo\desktop\trabajo practico final\menu.h
+
+1669502711 source:c:\users\pablo david cavallo\desktop\trabajo practico final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+
+1655752840 source:c:\users\pablo david cavallo\desktop\proyectos\trabajo practico final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+
+1655752840 c:\users\pablo david cavallo\desktop\proyectos\trabajo practico final\estetica.h
+
+1655676700 c:\users\pablo david cavallo\desktop\proyectos\trabajo practico final\clientes.h
+
+1655754978 source:c:\users\pablo david cavallo\desktop\proyectos\trabajo practico final\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+
+1655746276 c:\users\pablo david cavallo\desktop\proyectos\trabajo practico final\consumos.h
+
+1669506445 source:c:\users\pablo david cavallo\desktop\proyectos\trabajo practico final\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650386004 c:\users\pablo david cavallo\desktop\proyectos\trabajo practico final\gotoxy.h
+
+1650386000 source:c:\users\pablo david cavallo\desktop\proyectos\trabajo practico final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1669506547 source:c:\users\pablo david cavallo\desktop\proyectos\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+
+1654879678 c:\users\pablo david cavallo\desktop\proyectos\trabajo practico final\menu.h
+
+1669502711 source:c:\users\pablo david cavallo\desktop\proyectos\trabajo practico final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+
